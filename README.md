@@ -1,26 +1,28 @@
-# Welcome to [Your Project Name]! 🚀
+# Hey there, I'm [Your Name]! 👋
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo.svg)](https://github.com/your-username/your-repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo.svg)](https://github.com/your-username/your-repo/network)
-[![GitHub license](https://img.shields.io/github/license/your-username/your-repo.svg)](https://github.com/your-username/your-repo/blob/master/LICENSE)
+I'm a passionate web developer diving into the realms of Next.js and Framer. When I'm not coding, I'm either discussing the latest F1 races or exploring the world of anime. 🏎️🎨
 
-## Overview
+## About Me
 
-This repository hosts the code for my amazing Next.js web applications! Feel free to explore and contribute.
+🌐 Frontend Engineer | 💻 Full-stack Enthusiast | 🚀 Next.js & Framer Aficionado
 
-## Repo Stats
+## Stats
 
-![GitHub language count](https://img.shields.io/github/languages/count/your-username/your-repo)
-![GitHub top language](https://img.shields.io/github/languages/top/your-username/your-repo)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## Current Projects
+
+- 🌟 Creating stunning web applications with Next.js
+- 🎨 Exploring creative interfaces with Framer
 
 ## Fun Facts
 
-- 🚀 Currently building [XYZ feature]!
-- 🌟 Achieved [X] number of stars! Thanks for the support!
-- 🏆 Fun fact: Did you know this project was inspired by [your inspiration]?
+- 🏁 An avid F1 enthusiast – Ask me anything about the recent races!
+- 🌸 Anime lover – My favorite anime series is [Your Favorite Anime]!
 
 ## Get in Touch
 
-Feel free to reach out if you have ideas, suggestions, or just want to chat about Next.js, coding, or anything else! You can find me on [LinkedIn](https://www.linkedin.com/in/your-profile/) or [Twitter](https://twitter.com/your-handle).
+Let's chat about coding, sports, web development, F1, or anime! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/) or [Twitter](https://twitter.com/your-handle).
 
-Enjoy exploring the code! 😊
+Looking forward to exchanging ideas and stories! 😊
